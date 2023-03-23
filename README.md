@@ -25,14 +25,10 @@ Para Pruebas: ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-t
 
 ## Deploy
 
-WEB SERVER:  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+WEB SERVER:  #46E3B7
 
-BD SERVER:   ![CleverCloud](https://img.shields.io/badge/BD-CleverCloud-red)
+BD SERVER:   [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
 
-
-## Link del Proyecto
-
-https://back-portfolio-ap.herokuapp.com/
 
 
 ## Estado del proyecto
