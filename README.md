@@ -34,3 +34,5 @@ BD SERVER:   [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)]
 ## Estado del proyecto
 
 ![Badge Finalizado](https://img.shields.io/badge/STATUS-FINALIZADO%20-blue)
+
+
